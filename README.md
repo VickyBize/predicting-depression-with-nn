@@ -12,6 +12,5 @@ Predicting Depression
 *You will need to change the directories within the code
 
 In the folder "Examples" you will find the code appling for each year.
-In the folder "erisk collection_2017_2018" you will find the dataset and so files that are extracted during the task,so 
-you can reproduce the results without having to run the total code.
+You can find the dataset from the organizers of e-risk http://early.irlab.org/2017/index.html .
 
